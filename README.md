@@ -1,6 +1,6 @@
 # RoboFriends
 
-![RoboFriends](https://github.com/wptechprdigy/robo-friends/blob/src/img/robofiends.png)
+![RoboFriends](https://github.com/wptechprodigy/robo-friends/blob/master/src/img/robofriends.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -17,5 +17,3 @@ I had fun building this and I hope you find it interesting.
 Do you think I should include something? Let me know.
 
 I am always open to feedback, that's the way we grow. So, help me grow.
-
-
